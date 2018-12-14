@@ -1,0 +1,14 @@
+
+		view_addmodifier ( result ,	( modifier_t* ) layout , 0 );
+
+- elkurodott sortores, gyors karakter kiiras, background resize
+- input_t dozer
+
+- balrol kinyilo scrollbar
+- rajzold fol egeszet
+- more assert
+- memory leaks
+- protobuffer
+- resizeable composer
+- filemuveletek is hatter szalba
+- kulon item view appot csinalni amin szarra optimalizalod
